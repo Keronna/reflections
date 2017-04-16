@@ -15,3 +15,6 @@ Having a visual representation of the repository structure helps determine futur
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 Merging two branches makes a single branch with all the commits combined (ordered by date). The merged branch is represented as the continuation of the master branch because the contents of the coins branch were added to the master branch.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Although some changes could be merged automatically saving time, most of the time some specialized programming language would require a more detailed approach (rendering automatic merge unusable).
