@@ -12,3 +12,6 @@ Branches would allow alternative versions of the same code, separating future ch
 
 How do the diagrams help you visualize the branch structure?
 Having a visual representation of the repository structure helps determine future actions like branching and merging.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Merging two branches makes a single branch with all the commits combined (ordered by date). The merged branch is represented as the continuation of the master branch because the contents of the coins branch were added to the master branch.
