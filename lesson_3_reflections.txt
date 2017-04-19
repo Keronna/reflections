@@ -3,3 +3,6 @@ Remotes are useful When working along other team mates.
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Choosing when to update your repository gives the opportunity to work on changes sepatarely from other team mates.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Branches create structure for different commits. Cloning allows to copy a whole repository from an online or offline source. Forking allows to copy a whole repository from another user's github workspace while ensuring public recognition.
