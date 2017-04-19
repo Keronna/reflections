@@ -6,3 +6,6 @@ Choosing when to update your repository gives the opportunity to work on changes
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 Branches create structure for different commits. Cloning allows to copy a whole repository from an online or offline source. Forking allows to copy a whole repository from another user's github workspace while ensuring public recognition.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+Having a copy of the last state of the remote helps identiy changes in the working area.
