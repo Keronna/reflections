@@ -12,3 +12,6 @@ Having a copy of the last state of the remote helps identiy changes in the worki
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 It would be easier to use Git to control different versions across different partners because the team transfer flow wouldn't be centralized with the alternative.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+Separating from the master branch helps introduce an experimental change without risking a possible error in the main repository.
